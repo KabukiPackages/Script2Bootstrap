@@ -1,0 +1,1559 @@
+﻿  main.cpp
+C:\workspace\kabuki-starship\script2\_config_footer.inl(125,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\workspace\kabuki-starship\script2\_config_footer.inl(125,18): error C2146: syntax error: missing ';' before identifier 'ISE'
+C:\workspace\kabuki-starship\script2\_config_footer.inl(126,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\workspace\kabuki-starship\script2\_config_footer.inl(126,19): error C2146: syntax error: missing ';' before identifier 'IUE'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,13): error C2672: '_::TSPrint': no matching overloaded function found
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,ISW,const CHC *)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\stringf.hpp(613): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,ISW,const CHB *)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\stringf.hpp(601): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,ISW,const CHA *)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\stringf.hpp(589): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,CHT *,const CHC *)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\stringf.hpp(576): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,CHT *,const CHB *)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\stringf.hpp(557): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,CHT *,const CHA *)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\stringf.hpp(540): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,ISW,CHC)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\stringf.hpp(451): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,ISW,CHB)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\stringf.hpp(442): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,ISW,CHA)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\stringf.hpp(432): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,CHT *,CHA)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\stringf.hpp(420): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,ISW,FPD)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\puff.hpp(1113): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,CHT *,FPD)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\puff.hpp(1109): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,ISW,FPC)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\puff.hpp(1104): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,CHT *,FPC)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\puff.hpp(1100): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,ISW,ISC)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\puff.hpp(480): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,CHT *,ISC)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\puff.hpp(476): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,ISW,ISD)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\puff.hpp(470): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,CHT *,ISD)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\puff.hpp(466): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,ISW,IUC)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\puff.hpp(426): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,CHT *,IUC)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\puff.hpp(421): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,ISW,IUD)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\puff.hpp(415): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.hpp(606,28): error C2780: 'CHT *_::TSPrint(CHT *,CHT *,IUD)': expects 3 arguments - 2 provided
+C:\workspace\kabuki-starship\script2\puff.hpp(410): message : see declaration of '_::TSPrint'
+C:\workspace\kabuki-starship\script2\clock.inl(268,42): error C2665: '_::TSPrint': none of the 22 overloads could convert all the argument types
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message : could be 'CHT *_::TSPrint<CHA>(CHT *,ISW,const CHC *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,const CHB *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,const CHA *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,const CHC *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,const CHB *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,const CHA *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,CHC)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,CHB)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,CHA)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,CHA)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,FPD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,FPD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,FPC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,FPC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,ISC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,ISC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,ISD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,ISD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,IUC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,IUC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,IUD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,IUD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         ]
+C:\workspace\kabuki-starship\script2\clock.inl(268,42): message : while trying to match the argument list '(CHA *, CHA *, const _::AClock)'
+C:\workspace\kabuki-starship\script2\clock.inl(272,38): error C2665: '_::TSPrint': none of the 22 overloads could convert all the argument types
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message : could be 'CHT *_::TSPrint<CHA>(CHT *,ISW,const CHC *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,const CHB *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,const CHA *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,const CHC *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,const CHB *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,const CHA *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,CHC)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,CHB)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,CHA)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,CHA)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,FPD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,FPD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,FPC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,FPC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,ISC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,ISC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,ISD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,ISD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,IUC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,IUC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,IUD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,IUD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         ]
+C:\workspace\kabuki-starship\script2\clock.inl(272,38): message : while trying to match the argument list '(CHA *, CHA *, _::TME)'
+C:\workspace\kabuki-starship\script2\clock.inl(278,42): error C2665: '_::TSPrint': none of the 22 overloads could convert all the argument types
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message : could be 'CHT *_::TSPrint<CHA>(CHT *,ISW,const CHC *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,const CHB *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,const CHA *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,const CHC *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,const CHB *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,const CHA *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,CHC)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,CHB)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,CHA)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,CHA)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,FPD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,FPD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,FPC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,FPC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,ISC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,ISC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,ISD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,ISD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,IUC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,IUC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,IUD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,IUD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         ]
+C:\workspace\kabuki-starship\script2\clock.inl(278,42): message : while trying to match the argument list '(CHA *, CHA *, _::AClock)'
+C:\workspace\kabuki-starship\script2\clock.inl(284,42): error C2665: '_::TSPrint': none of the 22 overloads could convert all the argument types
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message : could be 'CHT *_::TSPrint<CHA>(CHT *,ISW,const CHC *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,const CHB *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,const CHA *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,const CHC *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,const CHB *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,const CHA *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,CHC)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,CHB)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,CHA)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,CHA)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,FPD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,FPD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,FPC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,FPC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,ISC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,ISC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,ISD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,ISD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,IUC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,IUC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,ISW,IUD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message : or       'CHT *_::TSPrint<CHA>(CHT *,CHT *,IUD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         ]
+C:\workspace\kabuki-starship\script2\clock.inl(284,42): message : while trying to match the argument list '(CHA *, CHA *, _::AClock)'
+C:\workspace\kabuki-starship\script2\clock.inl(288,10): error C2065: 'TScanTime': undeclared identifier
+C:\workspace\kabuki-starship\script2\clock.inl(288,23): error C2275: 'CHA': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(65): message : see declaration of 'CHA'
+C:\workspace\kabuki-starship\script2\clock.inl(292,35): error C2665: '_::TSScan': none of the 18 overloads could convert all the argument types
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message : could be 'CHT *_::TSScan<CHA>(const CHT *,FPD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message : or       'CHT *_::TSScan<CHA>(const CHT *,FPC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message : or       'CHT *_::TSScan<CHA>(CHT *,IUD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message : or       'const CHT *_::TSScan<CHA>(const CHT *,IUD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message : or       'CHT *_::TSScan<CHA>(CHT *,IUC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message : or       'const CHT *_::TSScan<CHA>(const CHT *,IUC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message : or       'CHT *_::TSScan<CHA>(CHT *,IUB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message : or       'const CHT *_::TSScan<CHA>(const CHT *,IUB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message : or       'CHT *_::TSScan<CHA>(CHT *,IUA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message : or       'const CHT *_::TSScan<CHA>(const CHT *,IUA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message : or       'CHT *_::TSScan<CHA>(CHT *,ISD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message : or       'const CHT *_::TSScan<CHA>(const CHT *,ISD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message : or       'CHT *_::TSScan<CHA>(CHT *,ISC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message : or       'const CHT *_::TSScan<CHA>(const CHT *,ISC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message : or       'CHT *_::TSScan<CHA>(CHT *,ISB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message : or       'const CHT *_::TSScan<CHA>(const CHT *,ISB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message : or       'CHT *_::TSScan<CHA>(CHT *,ISA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message : or       'const CHT *_::TSScan<CHA>(const CHT *,ISA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :         ]
+C:\workspace\kabuki-starship\script2\clock.inl(292,35): message : while trying to match the argument list '(const CHA *, _::AClock)'
+C:\workspace\kabuki-starship\script2\clock.inl(295,75): error C2665: '_::TSScan': none of the 18 overloads could convert all the argument types
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message : could be 'CHT *_::TSScan<CHA>(const CHT *,FPD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message : or       'CHT *_::TSScan<CHA>(const CHT *,FPC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message : or       'CHT *_::TSScan<CHA>(CHT *,IUD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message : or       'const CHT *_::TSScan<CHA>(const CHT *,IUD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message : or       'CHT *_::TSScan<CHA>(CHT *,IUC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message : or       'const CHT *_::TSScan<CHA>(const CHT *,IUC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message : or       'CHT *_::TSScan<CHA>(CHT *,IUB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message : or       'const CHT *_::TSScan<CHA>(const CHT *,IUB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message : or       'CHT *_::TSScan<CHA>(CHT *,IUA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message : or       'const CHT *_::TSScan<CHA>(const CHT *,IUA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message : or       'CHT *_::TSScan<CHA>(CHT *,ISD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message : or       'const CHT *_::TSScan<CHA>(const CHT *,ISD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message : or       'CHT *_::TSScan<CHA>(CHT *,ISC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message : or       'const CHT *_::TSScan<CHA>(const CHT *,ISC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message : or       'CHT *_::TSScan<CHA>(CHT *,ISB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message : or       'const CHT *_::TSScan<CHA>(const CHT *,ISB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message : or       'CHT *_::TSScan<CHA>(CHT *,ISA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message : or       'const CHT *_::TSScan<CHA>(const CHT *,ISA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :             CHT=CHA
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :         ]
+C:\workspace\kabuki-starship\script2\clock.inl(295,75): message : while trying to match the argument list '(const CHA *, _::TME)'
+C:\workspace\kabuki-starship\script2\clock.inl(298,10): error C2065: 'TScanTime': undeclared identifier
+C:\workspace\kabuki-starship\script2\clock.inl(298,23): error C2275: 'CHA': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(65): message : see declaration of 'CHA'
+C:\workspace\kabuki-starship\script2\clock.inl(298,40): error C2275: 'TM4': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(77): message : see declaration of 'TM4'
+C:\workspace\kabuki-starship\script2\clock.inl(302,10): error C2065: 'TScanTime': undeclared identifier
+C:\workspace\kabuki-starship\script2\clock.inl(302,23): error C2275: 'CHA': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(65): message : see declaration of 'CHA'
+C:\workspace\kabuki-starship\script2\clock.inl(302,40): error C2275: 'TM8': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(78): message : see declaration of 'TM8'
+C:\workspace\kabuki-starship\script2\clock.inl(309,42): error C2665: '_::TSPrint': none of the 22 overloads could convert all the argument types
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message : could be 'CHT *_::TSPrint<CHB>(CHT *,ISW,const CHC *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,const CHB *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,const CHA *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,CHT *,const CHC *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,CHT *,const CHB *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,CHT *,const CHA *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,CHC)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,CHB)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,CHA)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message : or       'CHT *_::TSPrint<CHB>(CHT *,CHT *,CHA)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,FPD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message : or       'CHT *_::TSPrint<CHB>(CHT *,CHT *,FPD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,FPC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message : or       'CHT *_::TSPrint<CHB>(CHT *,CHT *,FPC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,ISC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,CHT *,ISC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,ISD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,CHT *,ISD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,IUC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,CHT *,IUC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,IUD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,CHT *,IUD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         ]
+C:\workspace\kabuki-starship\script2\clock.inl(309,42): message : while trying to match the argument list '(CHB *, CHB *, _::AClock)'
+C:\workspace\kabuki-starship\script2\clock.inl(313,38): error C2665: '_::TSPrint': none of the 22 overloads could convert all the argument types
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message : could be 'CHT *_::TSPrint<CHB>(CHT *,ISW,const CHC *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,const CHB *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,const CHA *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,CHT *,const CHC *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,CHT *,const CHB *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,CHT *,const CHA *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,CHC)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,CHB)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,CHA)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message : or       'CHT *_::TSPrint<CHB>(CHT *,CHT *,CHA)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,FPD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message : or       'CHT *_::TSPrint<CHB>(CHT *,CHT *,FPD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,FPC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message : or       'CHT *_::TSPrint<CHB>(CHT *,CHT *,FPC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,ISC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,CHT *,ISC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,ISD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,CHT *,ISD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,IUC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,CHT *,IUC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,ISW,IUD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message : or       'CHT *_::TSPrint<CHB>(CHT *,CHT *,IUD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         ]
+C:\workspace\kabuki-starship\script2\clock.inl(313,38): message : while trying to match the argument list '(CHB *, CHB *, _::TME)'
+C:\workspace\kabuki-starship\script2\clock.inl(317,10): error C2065: 'TClockPrint': undeclared identifier
+C:\workspace\kabuki-starship\script2\clock.inl(317,25): error C2275: 'CHB': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(66): message : see declaration of 'CHB'
+C:\workspace\kabuki-starship\script2\clock.inl(317,48): error C2275: 'TM4': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(77): message : see declaration of 'TM4'
+C:\workspace\kabuki-starship\script2\clock.inl(321,10): error C2065: 'TClockPrint': undeclared identifier
+C:\workspace\kabuki-starship\script2\clock.inl(321,25): error C2275: 'CHB': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(66): message : see declaration of 'CHB'
+C:\workspace\kabuki-starship\script2\clock.inl(321,48): error C2275: 'TM8': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(78): message : see declaration of 'TM8'
+C:\workspace\kabuki-starship\script2\clock.inl(325,35): error C2665: '_::TSScan': none of the 18 overloads could convert all the argument types
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message : could be 'CHT *_::TSScan<CHB>(const CHT *,FPD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message : or       'CHT *_::TSScan<CHB>(const CHT *,FPC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message : or       'CHT *_::TSScan<CHB>(CHT *,IUD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message : or       'const CHT *_::TSScan<CHB>(const CHT *,IUD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message : or       'CHT *_::TSScan<CHB>(CHT *,IUC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message : or       'const CHT *_::TSScan<CHB>(const CHT *,IUC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message : or       'CHT *_::TSScan<CHB>(CHT *,IUB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message : or       'const CHT *_::TSScan<CHB>(const CHT *,IUB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message : or       'CHT *_::TSScan<CHB>(CHT *,IUA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message : or       'const CHT *_::TSScan<CHB>(const CHT *,IUA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message : or       'CHT *_::TSScan<CHB>(CHT *,ISD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message : or       'const CHT *_::TSScan<CHB>(const CHT *,ISD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message : or       'CHT *_::TSScan<CHB>(CHT *,ISC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message : or       'const CHT *_::TSScan<CHB>(const CHT *,ISC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message : or       'CHT *_::TSScan<CHB>(CHT *,ISB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message : or       'const CHT *_::TSScan<CHB>(const CHT *,ISB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message : or       'CHT *_::TSScan<CHB>(CHT *,ISA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message : or       'const CHT *_::TSScan<CHB>(const CHT *,ISA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :         ]
+C:\workspace\kabuki-starship\script2\clock.inl(325,35): message : while trying to match the argument list '(const CHB *, _::AClock)'
+C:\workspace\kabuki-starship\script2\clock.inl(329,10): error C2065: 'TScanTime': undeclared identifier
+C:\workspace\kabuki-starship\script2\clock.inl(329,23): error C2275: 'CHB': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(66): message : see declaration of 'CHB'
+C:\workspace\kabuki-starship\script2\clock.inl(333,36): error C2665: '_::TSScan': none of the 18 overloads could convert all the argument types
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message : could be 'CHT *_::TSScan<CHB>(const CHT *,FPD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message : or       'CHT *_::TSScan<CHB>(const CHT *,FPC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message : or       'CHT *_::TSScan<CHB>(CHT *,IUD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message : or       'const CHT *_::TSScan<CHB>(const CHT *,IUD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message : or       'CHT *_::TSScan<CHB>(CHT *,IUC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message : or       'const CHT *_::TSScan<CHB>(const CHT *,IUC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message : or       'CHT *_::TSScan<CHB>(CHT *,IUB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message : or       'const CHT *_::TSScan<CHB>(const CHT *,IUB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message : or       'CHT *_::TSScan<CHB>(CHT *,IUA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message : or       'const CHT *_::TSScan<CHB>(const CHT *,IUA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message : or       'CHT *_::TSScan<CHB>(CHT *,ISD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message : or       'const CHT *_::TSScan<CHB>(const CHT *,ISD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message : or       'CHT *_::TSScan<CHB>(CHT *,ISC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message : or       'const CHT *_::TSScan<CHB>(const CHT *,ISC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message : or       'CHT *_::TSScan<CHB>(CHT *,ISB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message : or       'const CHT *_::TSScan<CHB>(const CHT *,ISB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message : or       'CHT *_::TSScan<CHB>(CHT *,ISA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message : or       'const CHT *_::TSScan<CHB>(const CHT *,ISA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :             CHT=CHB
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :         ]
+C:\workspace\kabuki-starship\script2\clock.inl(333,36): message : while trying to match the argument list '(const CHB *, _::TME)'
+C:\workspace\kabuki-starship\script2\clock.inl(337,10): error C2065: 'TScanTime': undeclared identifier
+C:\workspace\kabuki-starship\script2\clock.inl(337,23): error C2275: 'CHB': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(66): message : see declaration of 'CHB'
+C:\workspace\kabuki-starship\script2\clock.inl(337,45): error C2275: 'TM4': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(77): message : see declaration of 'TM4'
+C:\workspace\kabuki-starship\script2\clock.inl(341,10): error C2065: 'TScanTime': undeclared identifier
+C:\workspace\kabuki-starship\script2\clock.inl(341,23): error C2275: 'CHB': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(66): message : see declaration of 'CHB'
+C:\workspace\kabuki-starship\script2\clock.inl(341,45): error C2275: 'TM8': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(78): message : see declaration of 'TM8'
+C:\workspace\kabuki-starship\script2\clock.inl(348,42): error C2665: '_::TSPrint': none of the 22 overloads could convert all the argument types
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message : could be 'CHT *_::TSPrint<CHC>(CHT *,ISW,const CHC *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,const CHB *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,const CHA *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,CHT *,const CHC *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,CHT *,const CHB *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,CHT *,const CHA *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,CHC)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,CHB)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,CHA)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message : or       'CHT *_::TSPrint<CHC>(CHT *,CHT *,CHA)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,FPD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message : or       'CHT *_::TSPrint<CHC>(CHT *,CHT *,FPD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,FPC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message : or       'CHT *_::TSPrint<CHC>(CHT *,CHT *,FPC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,ISC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,CHT *,ISC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,ISD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,CHT *,ISD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,IUC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,CHT *,IUC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,IUD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,CHT *,IUD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         ]
+C:\workspace\kabuki-starship\script2\clock.inl(348,42): message : while trying to match the argument list '(CHC *, CHC *, _::AClock)'
+C:\workspace\kabuki-starship\script2\clock.inl(352,38): error C2665: '_::TSPrint': none of the 22 overloads could convert all the argument types
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message : could be 'CHT *_::TSPrint<CHC>(CHT *,ISW,const CHC *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(613,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,const CHB *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(601,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,const CHA *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(589,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,CHT *,const CHC *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(576,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,CHT *,const CHB *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(557,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,CHT *,const CHA *)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(540,13): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,CHC)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(451,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,CHB)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(442,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,CHA)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(432,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message : or       'CHT *_::TSPrint<CHC>(CHT *,CHT *,CHA)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(420,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,FPD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(1113,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message : or       'CHT *_::TSPrint<CHC>(CHT *,CHT *,FPD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(1109,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,FPC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(1104,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message : or       'CHT *_::TSPrint<CHC>(CHT *,CHT *,FPC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(1100,6): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,ISC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(480,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,CHT *,ISC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(476,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,ISD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(470,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,CHT *,ISD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(466,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,IUC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(426,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,CHT *,IUC)'
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(421,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,ISW,IUD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(415,13): message :         ]
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message : or       'CHT *_::TSPrint<CHC>(CHT *,CHT *,IUD)'
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         with
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         [
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\puff.hpp(410,13): message :         ]
+C:\workspace\kabuki-starship\script2\clock.inl(352,38): message : while trying to match the argument list '(CHC *, CHC *, _::TME)'
+C:\workspace\kabuki-starship\script2\clock.inl(356,10): error C2065: 'TClockPrint': undeclared identifier
+C:\workspace\kabuki-starship\script2\clock.inl(356,25): error C2275: 'CHC': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(67): message : see declaration of 'CHC'
+C:\workspace\kabuki-starship\script2\clock.inl(356,48): error C2275: 'TM4': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(77): message : see declaration of 'TM4'
+C:\workspace\kabuki-starship\script2\clock.inl(360,10): error C2065: 'TClockPrint': undeclared identifier
+C:\workspace\kabuki-starship\script2\clock.inl(360,25): error C2275: 'CHC': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(67): message : see declaration of 'CHC'
+C:\workspace\kabuki-starship\script2\clock.inl(360,48): error C2275: 'TM8': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(78): message : see declaration of 'TM8'
+C:\workspace\kabuki-starship\script2\clock.inl(364,10): error C2065: 'TScanTime': undeclared identifier
+C:\workspace\kabuki-starship\script2\clock.inl(364,23): error C2275: 'CHC': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(67): message : see declaration of 'CHC'
+C:\workspace\kabuki-starship\script2\clock.inl(368,34): error C2665: '_::TSScan': none of the 18 overloads could convert all the argument types
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message : could be 'CHT *_::TSScan<CHC>(const CHT *,FPD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message : or       'CHT *_::TSScan<CHC>(const CHT *,FPC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message : or       'CHT *_::TSScan<CHC>(CHT *,IUD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message : or       'const CHT *_::TSScan<CHC>(const CHT *,IUD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message : or       'CHT *_::TSScan<CHC>(CHT *,IUC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message : or       'const CHT *_::TSScan<CHC>(const CHT *,IUC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message : or       'CHT *_::TSScan<CHC>(CHT *,IUB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message : or       'const CHT *_::TSScan<CHC>(const CHT *,IUB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message : or       'CHT *_::TSScan<CHC>(CHT *,IUA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message : or       'const CHT *_::TSScan<CHC>(const CHT *,IUA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message : or       'CHT *_::TSScan<CHC>(CHT *,ISD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message : or       'const CHT *_::TSScan<CHC>(const CHT *,ISD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message : or       'CHT *_::TSScan<CHC>(CHT *,ISC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message : or       'const CHT *_::TSScan<CHC>(const CHT *,ISC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message : or       'CHT *_::TSScan<CHC>(CHT *,ISB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message : or       'const CHT *_::TSScan<CHC>(const CHT *,ISB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message : or       'CHT *_::TSScan<CHC>(CHT *,ISA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message : or       'const CHT *_::TSScan<CHC>(const CHT *,ISA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :         ]
+C:\workspace\kabuki-starship\script2\clock.inl(368,34): message : while trying to match the argument list '(const CHC *, _::AClock)'
+C:\workspace\kabuki-starship\script2\clock.inl(372,36): error C2665: '_::TSScan': none of the 18 overloads could convert all the argument types
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message : could be 'CHT *_::TSScan<CHC>(const CHT *,FPD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(1024,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message : or       'CHT *_::TSScan<CHC>(const CHT *,FPC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(1019,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message : or       'CHT *_::TSScan<CHC>(CHT *,IUD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(410,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message : or       'const CHT *_::TSScan<CHC>(const CHT *,IUD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(406,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message : or       'CHT *_::TSScan<CHC>(CHT *,IUC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(402,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message : or       'const CHT *_::TSScan<CHC>(const CHT *,IUC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(398,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message : or       'CHT *_::TSScan<CHC>(CHT *,IUB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(394,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message : or       'const CHT *_::TSScan<CHC>(const CHT *,IUB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(390,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message : or       'CHT *_::TSScan<CHC>(CHT *,IUA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(386,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message : or       'const CHT *_::TSScan<CHC>(const CHT *,IUA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(382,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message : or       'CHT *_::TSScan<CHC>(CHT *,ISD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(333,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message : or       'const CHT *_::TSScan<CHC>(const CHT *,ISD &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(329,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message : or       'CHT *_::TSScan<CHC>(CHT *,ISC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(325,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message : or       'const CHT *_::TSScan<CHC>(const CHT *,ISC &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(321,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message : or       'CHT *_::TSScan<CHC>(CHT *,ISB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(317,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message : or       'const CHT *_::TSScan<CHC>(const CHT *,ISB &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(313,12): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message : or       'CHT *_::TSScan<CHC>(CHT *,ISA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(309,6): message :         ]
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message : or       'const CHT *_::TSScan<CHC>(const CHT *,ISA &)'
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :         with
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :         [
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :             CHT=CHC
+C:\workspace\kabuki-starship\script2\stringf.hpp(305,12): message :         ]
+C:\workspace\kabuki-starship\script2\clock.inl(372,36): message : while trying to match the argument list '(const CHC *, _::TME)'
+C:\workspace\kabuki-starship\script2\clock.inl(376,10): error C2065: 'TScanTime': undeclared identifier
+C:\workspace\kabuki-starship\script2\clock.inl(376,23): error C2275: 'CHC': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(67): message : see declaration of 'CHC'
+C:\workspace\kabuki-starship\script2\clock.inl(376,45): error C2275: 'TM4': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(77): message : see declaration of 'TM4'
+C:\workspace\kabuki-starship\script2\clock.inl(380,10): error C2065: 'TScanTime': undeclared identifier
+C:\workspace\kabuki-starship\script2\clock.inl(380,23): error C2275: 'CHC': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(67): message : see declaration of 'CHC'
+C:\workspace\kabuki-starship\script2\clock.inl(380,45): error C2275: 'TM8': illegal use of this type as an expression
+C:\workspace\kabuki-starship\script2\_config_header.inl(78): message : see declaration of 'TM8'
+C:\workspace\kabuki-pacakages\script2.bootstrap\_seams\00.core.inl(21,3): error C2065: 'TEST_BEGIN': undeclared identifier
+C:\workspace\kabuki-pacakages\script2.bootstrap\_seams\_release.inl(1,10): fatal error C1083: Cannot open include file: '../../kabuki-starship/script2/_release.inl': No such file or directory
